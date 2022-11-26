@@ -6,4 +6,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-sigma-lime.vercel.app/api/top-langs/?username=GravityTwoG&hide=jupyter%20notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats/2)
+[![Top Langs](https://github-readme-stats-sigma-lime.vercel.app/api/top-langs/?username=GravityTwoG&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
