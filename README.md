@@ -33,3 +33,5 @@
 [![GravityTwoG's github stats](https://github-readme-stats-sigma-lime.vercel.app/api?username=GravityTwoG&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-sigma-lime.vercel.app/api/top-langs/?username=GravityTwoG&hide=jupyter%20notebook,css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=gravitytwog&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
