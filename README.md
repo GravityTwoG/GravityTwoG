@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <b >Marsel Abazbekov</b></h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 - :mailbox: Telegram [@gravitytwog](https://t.me/gravitytwog)
 
