@@ -70,7 +70,7 @@
 ## My stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-lime.vercel.app/api?username=GravityTwoG&show_icons=true&count_private=true&exclude_repo=mymind&custom_title=GravityTwog's%20Github%20Stats" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-lime.vercel.app/api?username=GravityTwoG&show_icons=true&count_private=true&exclude_repo=mymind&custom_title=GravityTwog's%20Github%20Stats&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-sigma-lime.vercel.app/api/top-langs/?username=GravityTwoG&hide=jupyter%20notebook,css,html&langs_count=6&card_width=300&layout=compact" />
