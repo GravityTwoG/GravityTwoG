@@ -3,7 +3,6 @@
 
 - :mailbox: Telegram [@gravitytwog](https://t.me/gravitytwog)
 - :link: [m.abazbekov.ru](https://m.abazbekov.ru)
-- :link: [gravitytwog.github.io](https://gravitytwog.github.io)
 
 ## Main stack
 
